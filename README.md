@@ -1,4 +1,13 @@
 ### Hi there 👋
+```python
+
+class Me:
+    def __init__(self):
+        self.name = 'GreenH47'
+        self.languages = ['Chinese','English','Mongolian']
+        self.programming = ['Python','Java','SQL','HTML']
+        self.status= 'Studying in Monash Uni'
+```
 
 <!--
 **GreenH47/GreenH47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
