@@ -9,35 +9,33 @@ class Me:
         self.programming = ['Python','Java','SQL','HTML']
         self.status= 'Studying in Monash Uni'
 ```
->当夜幕降临在我的城市
+  
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+### ⚙️ GitHub Stats
 
->有另外一种人的生活即将开始
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GreenH47&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
->他们白天睡懒觉 也不用去上班
+### 🛠 Programming Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GreenH47&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
->所以晚上睡不着 在家太无聊
 
->不喜欢看电视 也不爱上网
 
->因为都是看得见的摸不着的假象  
 
+```python
+
+北京晚报,有人在找有人在照, 打架多数还是人多的欺负人少
+北京晚报,有人睡地下通道, 有人公款吃喝国家给报销
+北京晚报,有人迟到有地儿验尿, 危险就在身边玩儿的就是心跳
+北京晚报,北京会越来越热闹, 但我们再也找不回从前的味道
 
 Artist:In3  
-
 Song: 北京晚报 (Beijing Evening News) 
-
 Track: 未知艺术家 (Unkown Artist) Track 8
-<!--
-**GreenH47/GreenH47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+<img src="image.jpg" width=30% height=30%>
