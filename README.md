@@ -22,8 +22,7 @@ class Me:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GreenH47&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🛠 Programming Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GreenH47&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GreenH47&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -40,4 +39,3 @@ Track: 未知艺术家 (Unkown Artist) Track 8
 ```
 <img src="image.jpg" width=30% height=30%>
 
- ..
